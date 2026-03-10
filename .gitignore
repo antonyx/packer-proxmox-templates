@@ -1,0 +1,9 @@
+packer_cache
+
+iso/*
+**/downloaded_iso_path/*
+
+*.auto.pkrvars.hcl
+credentials.pkrvars.hcl
+
+*.log
